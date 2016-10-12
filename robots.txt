@@ -1,0 +1,11 @@
+User-Agent: * 
+Disallow: /install/ 
+Disallow: /cache/
+Disallow: /cron/
+Disallow: /css/
+Disallow: /icons/
+Disallow: /mail/
+Disallow: /whatsapp/
+Disallow: /telegram/  
+     
+Sitemap: http://luft.steyregg.com/sitemap.xml

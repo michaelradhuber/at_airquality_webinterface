@@ -1,0 +1,588 @@
+[06-May-2016 05:46:26 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 05:46:26 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 05:46:26 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 05:46:26 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 07:58:48 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 07:58:48 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 07:58:48 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 07:58:48 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 07:59:55 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 07:59:55 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 12:09:42 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 12:09:42 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[06-May-2016 12:09:42 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 12:09:42 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[06-May-2016 13:36:58 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-May-2016 12:37:06 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-May-2016 13:57:08 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[07-May-2016 13:57:08 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[08-May-2016 12:37:12 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[08-May-2016 13:00:00 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[08-May-2016 13:00:00 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[08-May-2016 13:00:00 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[08-May-2016 13:00:00 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[08-May-2016 20:00:20 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[08-May-2016 20:00:20 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[08-May-2016 20:00:20 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[08-May-2016 20:00:20 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[09-May-2016 12:37:19 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[09-May-2016 12:57:54 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 391
+[09-May-2016 12:57:54 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 391
+[09-May-2016 12:57:54 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 416
+[09-May-2016 12:57:54 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 416
+[09-May-2016 12:58:15 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[09-May-2016 12:58:15 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[09-May-2016 12:58:15 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[09-May-2016 12:58:15 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[10-May-2016 13:07:27 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-May-2016 08:37:56 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[17-May-2016 18:21:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[18-May-2016 09:40:54 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTime, double given in X:\inetpub\steyreggluft\cron\warning.php on line 23
+[18-May-2016 09:42:01 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTime, double given in X:\inetpub\steyreggluft\cron\warning.php on line 23
+[18-May-2016 09:51:50 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTime, double given in X:\inetpub\steyreggluft\cron\warning.php on line 23
+[18-May-2016 09:52:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (1463560200000) at position 12 (0): Unexpected character' in X:\inetpub\steyreggluft\cron\warning.php:22
+Stack trace:
+#0 X:\inetpub\steyreggluft\cron\warning.php(22): DateTime->__construct('1463560200000')
+#1 {main}
+  thrown in X:\inetpub\steyreggluft\cron\warning.php on line 22
+[18-May-2016 09:53:21 UTC] PHP Fatal error:  Call to undefined function stringval() in X:\inetpub\steyreggluft\cron\warning.php on line 22
+[18-May-2016 13:51:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[19-May-2016 10:22:00 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[21-May-2016 15:22:15 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-May-2016 14:52:22 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[23-May-2016 05:37:26 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[24-May-2016 12:43:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in X:\inetpub\steyreggluft\cron\warning.php on line 150
+[24-May-2016 12:43:06 UTC] PHP Warning:  main(): Couldn't fetch mysqli in X:\inetpub\steyreggluft\cron\warning.php on line 153
+[25-May-2016 03:22:39 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[25-May-2016 03:37:39 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-May-2016 08:22:47 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-May-2016 08:37:47 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-May-2016 15:22:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-May-2016 15:37:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-May-2016 14:22:55 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-May-2016 14:37:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[28-May-2016 13:23:02 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[28-May-2016 13:38:02 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-May-2016 01:23:13 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-May-2016 01:38:12 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-May-2016 22:53:19 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[31-May-2016 12:38:22 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[31-May-2016 16:23:23 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[03-Jun-2016 16:23:43 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[04-Jun-2016 13:23:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Jun-2016 15:22:43 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:45 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:45 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:45 Europe/Vienna] Request has failed with error 403: Bot was blocked by the user
+
+[06-Jun-2016 15:22:45 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:46 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:46 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:46 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[06-Jun-2016 15:22:46 Europe/Vienna] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 135
+[07-Jun-2016 12:22:50 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:50 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:22:50 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:22:50 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 12:22:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 346
+[07-Jun-2016 12:37:50 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:50 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:37:50 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:37:50 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 12:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 346
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:52:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 12:52:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 12:52:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 13:07:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 13:07:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:07:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 13:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 13:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 13:22:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 14:22:53 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 14:52:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 14:52:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 14:52:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:07:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:07:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:07:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 15:22:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:22:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:22:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:22:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 346
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 163
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 165
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 206
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 208
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 218
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 219
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 222
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 223
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:37:51 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:37:51 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 346
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:52:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 15:52:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 15:52:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:08:02 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:08:02 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:08:02 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:22:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:22:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:22:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 16:22:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:37:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 329
+[07-Jun-2016 16:37:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 331
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 354
+[07-Jun-2016 16:37:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 377
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 328
+[07-Jun-2016 17:07:52 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 328
+[07-Jun-2016 17:07:52 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 330
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 353
+[07-Jun-2016 17:07:52 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 376
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:22:57 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:22:57 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 330
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:22:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 376
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:37:57 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:37:57 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 330
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:37:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 376
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:52:57 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 05:52:57 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 330
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 05:52:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 376
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in X:\inetpub\steyreggluft\class.base.php on line 134
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 06:07:57 UTC] PHP Notice:  Undefined offset: 0 in X:\inetpub\steyreggluft\class.base.php on line 328
+[08-Jun-2016 06:07:57 UTC] PHP Notice:  Undefined index:  in X:\inetpub\steyreggluft\class.base.php on line 330
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  min(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  max(): Array must contain at least one element in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 353
+[08-Jun-2016 06:07:57 UTC] PHP Warning:  Division by zero in X:\inetpub\steyreggluft\class.base.php on line 376
+[08-Jun-2016 13:23:01 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[10-Jun-2016 13:23:18 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[12-Jun-2016 08:23:33 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[12-Jun-2016 15:38:36 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[13-Jun-2016 02:23:40 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Jun-2016 07:38:51 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Jun-2016 07:39:17 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 391
+[14-Jun-2016 07:39:17 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 391
+[14-Jun-2016 07:39:17 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 416
+[14-Jun-2016 07:39:17 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 416
+[16-Jun-2016 21:24:14 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[17-Jun-2016 14:24:20 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[21-Jun-2016 08:24:57 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Jun-2016 07:25:06 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Jun-2016 14:25:09 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Jun-2016 14:25:12 UTC] PHP Fatal error:  Maximum execution time of 1 second exceeded in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 42
+[22-Jun-2016 14:40:09 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[23-Jun-2016 14:25:18 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[24-Jun-2016 13:25:28 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[25-Jun-2016 19:25:40 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-Jun-2016 04:10:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-Jun-2016 04:11:21 UTC] PHP Fatal error:  Maximum execution time of 1 second exceeded in X:\inetpub\steyreggluft\cron\warning.php on line 143
+[26-Jun-2016 04:25:43 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-Jun-2016 10:10:55 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-Jun-2016 13:10:56 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[28-Jun-2016 09:11:05 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-Jun-2016 11:11:25 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[01-Jul-2016 10:11:34 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[03-Jul-2016 06:11:52 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[03-Jul-2016 13:11:55 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[05-Jul-2016 16:12:16 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Jul-2016 01:12:19 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-Jul-2016 12:12:34 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[08-Jul-2016 13:12:44 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[09-Jul-2016 12:42:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[09-Jul-2016 17:27:57 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[10-Jul-2016 12:13:05 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[11-Jul-2016 12:13:15 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[12-Jul-2016 19:01:03 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[12-Jul-2016 19:01:03 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[12-Jul-2016 19:01:03 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[12-Jul-2016 19:01:03 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 348
+[14-Jul-2016 13:13:46 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Jul-2016 16:13:47 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Jul-2016 19:13:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[15-Jul-2016 04:13:52 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[15-Jul-2016 15:13:57 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[16-Jul-2016 03:14:02 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[16-Jul-2016 11:31:00 UTC] PHP Notice:  Undefined variable: mysqli in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[16-Jul-2016 11:31:00 UTC] PHP Notice:  Trying to get property of non-object in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 322
+[21-Jul-2016 15:29:49 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[21-Jul-2016 15:29:51 UTC] PHP Fatal error:  Maximum execution time of 1 second exceeded in X:\inetpub\steyreggluft\telegram\telegram.functions.php on line 42
+[21-Jul-2016 15:44:48 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Jul-2016 13:14:56 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[23-Jul-2016 12:15:04 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[24-Jul-2016 14:15:12 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-Jul-2016 15:15:28 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-Jul-2016 15:15:38 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-Jul-2016 14:16:00 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[31-Jul-2016 12:16:07 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[01-Aug-2016 07:16:14 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[01-Aug-2016 18:16:18 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[02-Aug-2016 10:16:23 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[02-Aug-2016 13:31:24 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[05-Aug-2016 03:16:45 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Aug-2016 01:16:52 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Aug-2016 06:16:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[07-Aug-2016 09:17:04 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[08-Aug-2016 09:17:13 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[08-Aug-2016 14:17:15 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[16-Aug-2016 15:18:32 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[18-Aug-2016 14:33:51 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[20-Aug-2016 14:19:10 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[21-Aug-2016 09:19:18 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[21-Aug-2016 16:19:24 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Aug-2016 08:19:28 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[22-Aug-2016 15:34:30 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-Aug-2016 15:20:11 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[27-Aug-2016 15:20:21 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[28-Aug-2016 12:20:30 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[29-Aug-2016 06:20:38 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[01-Sep-2016 14:21:11 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[02-Sep-2016 10:21:20 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[03-Sep-2016 13:21:32 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[04-Sep-2016 13:21:42 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[04-Sep-2016 22:51:47 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[05-Sep-2016 09:51:52 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[05-Sep-2016 19:22:00 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[09-Sep-2016 12:22:35 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[10-Sep-2016 14:22:46 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[11-Sep-2016 08:22:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[11-Sep-2016 14:22:57 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[13-Sep-2016 14:38:19 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Sep-2016 00:23:23 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Sep-2016 08:38:27 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[14-Sep-2016 14:38:29 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[15-Sep-2016 02:23:35 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[15-Sep-2016 07:23:37 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[15-Sep-2016 14:23:40 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[16-Sep-2016 06:23:48 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[16-Sep-2016 20:23:54 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[26-Sep-2016 09:25:42 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[28-Sep-2016 09:11:07 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[30-Sep-2016 15:11:31 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[03-Oct-2016 05:12:00 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[04-Oct-2016 02:12:10 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[04-Oct-2016 08:12:12 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Oct-2016 00:12:33 UTC] Request has failed with error 403: Bot was blocked by the user
+
+[06-Oct-2016 20:12:42 UTC] Request has failed with error 403: Bot was blocked by the user
+

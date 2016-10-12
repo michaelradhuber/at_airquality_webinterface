@@ -1,0 +1,163 @@
+/*
+ * Important! Some colors are adapted in original W3.CSS file!
+ */
+
+.alertcolor_0 {color:#fff !important; background-color:rgb(0,153,102) !important; .invert {-webkit-filter: invert(100%); filter: invert(100%);}}
+.alertcolor_1 {color:#000000 !important; background-color:rgb(255,222,51) !important}
+.alertcolor_2 {color:#000000 !important; background-color:rgb(255,153,51) !important}
+.alertcolor_3 {color:#fff !important; background-color:rgb(204,0,51) !important}
+.alertcolor_4 {color:#fff !important; background-color:rgb(102,0,153)!important}
+.alertcolor_5 {color:#fff !important; background-color:rgb(126,0,35) !important}
+
+.bordercolor_0 {border-color:rgb(0,153,102) !important}
+.bordercolor_1 {border-color:rgb(255,222,51) !important}
+.bordercolor_2 {border-color:rgb(255,153,51) !important}
+.bordercolor_3 {border-color:rgb(204,0,51) !important}
+.bordercolor_4 {border-color:rgb(102,0,153)!important}
+.bordercolor_5 {border-color:rgb(126,0,35) !important}
+
+.palecolor_0 {background-color:rgba(0,153,102,0.4) !important}
+.palecolor_1 { background-color:rgba(255,222,5, 0.41) !important}
+.palecolor_2 { background-color:rgba(255,153,51, 0.4) !important}
+.palecolor_3 { background-color:rgba(204,0,51, 0.4) !important}
+.palecolor_4 { background-color:rgba(102,0,153, 0.4)!important}
+.palecolor_5 {background-color:rgba(126,0,35, 0.4) !important}
+
+/*
+ * Invert image color to white where text is white only (arrows):
+ */
+
+.images_0 {-webkit-filter: invert(100%); filter: invert(100%);}
+.images_1 {}
+.images_2 {}
+.images_3 {-webkit-filter: invert(100%); filter: invert(100%);}
+.images_4 {-webkit-filter: invert(100%); filter: invert(100%);}
+.images_5 {-webkit-filter: invert(100%); filter: invert(100%);}
+
+/*
+ * Background colors
+ */
+.container-bg {background-color: white;}
+
+@media screen and (min-width: 601px) {
+    .container-right-margin {
+        	margin-right: 1%;
+	}
+	.w3-col.m6-r{
+		width:48.9999%;
+	}
+}
+
+@media only screen and (min-width:993px){
+	.w3-col.l3-r{
+			width:19.0%;
+		}
+}
+	
+	.container-round {
+		border-radius: 10px;
+	}
+
+	
+	.container-bottom-margin {
+		margin-bottom: 5px;
+	}
+	
+	.container-float-middle {
+		margin:auto;
+	}
+	.w3-navbar {
+		font-weight: bold;
+	}
+	
+	.PM {
+		margin-bottom: 10px;
+	}
+	
+	.w3-navbar li a:hover{color:#331a00;background-color: rgb(253, 167, 0)}
+
+	.logo {
+		max-height: 40px;
+	}
+	
+	/*Tables*/
+	/* 
+	Generic Styling, for Desktops/Laptops 
+	*/
+	table { 
+	  width: 100%; 
+	  border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+	  background: #eee; 
+	}
+	th { 
+	  background: #333; 
+	  color: white; 
+	  font-weight: bold; 
+	}
+	td, th { 
+	  padding: 6px; 
+	  border: 1px solid #ccc; 
+	  text-align: left; 
+	}
+	
+	/* 
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+}
+
+.button {
+	color:black !important;
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+    td:nth-of-type(1):before { content: "Schadstoff"; font-weight: bold;}
+    td:nth-of-type(2):before { content: "Warnstufe 1"; font-weight: bold;}
+    td:nth-of-type(3):before { content: "Warnstufe 2"; font-weight: bold;}
+    td:nth-of-type(4):before { content: "Warnstufe 3"; font-weight: bold;}
+    td:nth-of-type(5):before { content: "Warnstufe 4"; font-weight: bold;}
+     td:nth-of-type(6):before { content: "Warnstufe 5"; font-weight: bold;}
+}
+	
