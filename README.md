@@ -5,7 +5,7 @@ A PHP and MYSQL air quality measurement and alert interface for Austrian air qua
 Watch this project live under http://luft.steyregg.com
 
 If you are interested in setting up the system for your own municipality/region,
-contact us at office@dria-profiling.com
+contact us at office (a*t) dria-profiling.com
 
 Wenn Sie eine öffentliche Institution/Gebietskörperschaft sind, und das System gerne für Ihr Gebiet aufsetzen möchten,
-kontaktieren Sie uns unter office@dria-profiling.com
+kontaktieren Sie uns unter office (a*t) dria-profiling.com
